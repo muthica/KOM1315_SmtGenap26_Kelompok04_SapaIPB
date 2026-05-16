@@ -1,0 +1,11 @@
+# Folder hasil kompilasi
+__pycache__/
+*.py[cod]
+
+# (password/key)
+.env
+
+# Folder virtual environment
+venv/
+env/
+.venv-1/
